@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <iframe src="https://giphy.com/embed/l1J9EXOsgzbYLm8EM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ![me](https://giphy.com/embed/l1J9EXOsgzbYLm8EM)
+
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/l1J9EXOsgzbYLm8EM">
