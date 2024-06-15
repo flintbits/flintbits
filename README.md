@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://giphy.com/embed/l1J9EXOsgzbYLm8EM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-![me](https://giphy.com/embed/l1J9EXOsgzbYLm8EM)
-
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/l1J9EXOsgzbYLm8EM">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
