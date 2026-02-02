@@ -21,13 +21,12 @@ I mostly work with **React + TypeScript**, care a lot about **architecture**, an
 - **Player Auction System** – live auction app with organizers, teams, and viewers  
 - **Astronaut Survival Game** – browser game with modular scenes and smooth rendering  
 
-(See pinned repos ↓)
-
 ---
+
 
 ### Tech I use day-to-day
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,webpack,vite,tailwind,nodejs,express,docker,aws,azure,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,webpack,vite,tailwind,jest,nodejs,express,golang,docker,aws,azure,git" />
 </p>
 
 ---
@@ -38,6 +37,7 @@ I mostly work with **React + TypeScript**, care a lot about **architecture**, an
 - JavaScript internals (parsers, runtimes, engines — purely out of curiosity)
 
 ---
+
 
 ### Let’s connect
 <p>
