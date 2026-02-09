@@ -18,8 +18,8 @@ A real-time auction platform where **Organizers manage auctions**, **Team Admins
 - Real-time updates via WebSockets (bids, teams, player selection, results)  
 - RBAC enforced using JWT + role-based permissions  
 
-**Frontend Repo** https://github.com/flintbits/auction-platform-frontend
-**Backend Repo:** https://github.com/flintbits/drafenex-backend  
+**Frontend Repo** https://github.com/flintbits/auction-platform-frontend .
+**Backend Repo:** https://github.com/flintbits/drafenex-backend  .
 
 ---
 
