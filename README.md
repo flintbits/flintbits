@@ -2,8 +2,26 @@
 
 Frontend engineer who enjoys building **fast, scalable UIs** and fixing the kind of performance issues most people prefer to ignore.
 
-I mostly work with **React + TypeScript**, care a lot about **architecture**, and like turning messy frontend codebases into something boring and predictable (the good kind).
+I mostly work with **React + TypeScript**, and like turning messy frontend codebases into something boring and predictable (the good kind).
 
+---
+
+# Currently Building (Active Project)
+
+### Player Auction System (Live Bidding Platform)
+
+A real-time auction platform where **Organizers manage auctions**, **Team Admins bid live**, and **viewers join without login**.
+
+- Organizer creates rooms, configures rules, manages player pool  
+- Team Admins apply to join rooms and bid in real-time  
+- Viewers join using Room Code + Password (view-only)  
+- Real-time updates via WebSockets (bids, teams, player selection, results)  
+- RBAC enforced using JWT + role-based permissions  
+
+**Frontend Repo** https://github.com/flintbits/auction-platform-frontend
+**Backend Repo:** https://github.com/flintbits/drafenex-backend  
+
+---
 
 ### Stuff I’m good at
 - React, TypeScript, JavaScript (ES6+)
