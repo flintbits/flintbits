@@ -8,7 +8,7 @@ I mostly work with **React + TypeScript**, and like turning messy frontend codeb
 
 ### Tech I use day-to-day
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,webpack,vite,tailwind,jest,nodejs,express,golang,docker,aws,azure,git" />
+  <img src="https://skillicons.dev/icons?i=go,html,java,js,c,rust,ts,md,css,firebase,netlify,vercel,aws,azure,bootstrap,express,npm,nextjs,nodejs,react,redux,tailwind,threejs,vite,webpack,mongodb,postgres,sqlite,supabase,figma,git,github,githubactions,jest,cypress" />
 </p>
 
 
@@ -35,5 +35,19 @@ A real-time auction platform where **Organizers manage auctions**, **Team Admins
 - **Astronaut Survival Game** - browser game with modular scenes and smooth rendering  
 
 
+<div align="center">
+  
+<table>
+<tr>
+  <td align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=flintbits&theme=github-dark&hide_border=true&background=0d1117" />
+  </td>
+  
+  <td align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flintbits&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117" />
+  </td>
+</tr>
+</table>
 
+</div>
 
