@@ -31,21 +31,18 @@ A real-time auction platform where **Organizers manage auctions**, **Team Admins
 
 ### Things I’ve built
 
-Create MFE Kit  
+Create MFE Kit [NPM Package](https://www.npmjs.com/package/create-mfe-kit) 
 CLI to scaffold Micro Frontend setups  
-[NPM Package](https://www.npmjs.com/package/create-mfe-kit)
 
-Player Auction System (Freelance Project, currently not in use)
+Player Auction System (Freelance Project, currently not in use) [Live](https://ykpl.netlify.app/)
 Live auction app with organizers and teams  
-[Live](https://ykpl.netlify.app/)
 
-Astronaut Survival Game  
+Astronaut Survival Game [Play](https://astronautsurvival.netlify.app/)
 Browser game with modular rendering engine  
-[Play](https://astronautsurvival.netlify.app/)
 
-Healthcare SaaS (Experimental Project)  
+Healthcare SaaS (Experimental Project) [Live](https://prathvin-healthcaresaas.netlify.app/)
 Simplified healthcare SaaS dashboard built to explore Chart.js and data visualization
-[Live](https://prathvin-healthcaresaas.netlify.app/)
+
 
 
 <div align="center">
