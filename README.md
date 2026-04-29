@@ -11,22 +11,6 @@ I mostly work with **React + TypeScript**, and like turning messy frontend codeb
   <img src="https://skillicons.dev/icons?i=go,html,java,js,c,rust,ts,md,css,firebase,netlify,vercel,aws,azure,bootstrap,express,npm,nextjs,nodejs,react,redux,tailwind,threejs,vite,webpack,mongodb,postgres,sqlite,supabase,figma,git,github,githubactions,jest,cypress" />
 </p>
 
-
-# Currently Building (Active Project)
-
-### Player Auction System (Live Bidding Platform)
-
-A real-time auction platform where **Organizers manage auctions**, **Team Admins bid live**, and **viewers join without login**.
-
-- Organizer creates rooms, configures rules, manages player pool  
-- Team Admins apply to join rooms and bid in real-time  
-- Viewers join using Room Code + Password (view-only)  
-- Real-time updates via WebSockets (bids, teams, player selection, results)  
-- RBAC enforced using JWT + role-based permissions  
-
-- **Frontend** https://github.com/flintbits/auction-platform-frontend 
-- **Backend:** https://github.com/flintbits/drafenex-backend 
-
 ---
 
 ### Things I’ve built
