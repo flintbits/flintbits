@@ -8,7 +8,7 @@ I mostly work with **React + TypeScript**, and like turning messy frontend codeb
 
 ### Tech I use day-to-day
 <p>
-  <img src="https://skillicons.dev/icons?i=go,html,java,js,c,rust,ts,md,css,firebase,netlify,vercel,aws,azure,bootstrap,express,npm,nextjs,nodejs,react,redux,tailwind,threejs,vite,webpack,mongodb,postgres,sqlite,supabase,figma,git,github,githubactions,jest,cypress" />
+  <img src="https://skillicons.dev/icons?i=go,html,java,js,rust,ts,md,css,firebase,netlify,vercel,aws,azure,bootstrap,express,npm,nextjs,nodejs,react,redux,tailwind,threejs,vite,webpack,mongodb,postgres,sqlite,supabase,figma,git,github,githubactions,jest,cypress" />
 </p>
 
 ---
