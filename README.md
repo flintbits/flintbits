@@ -41,3 +41,4 @@ I mostly work with **React + TypeScript**, and like turning messy frontend codeb
 
 </div>
 
+![](https://komarev.com/ghpvc/?username=flintbits&style=for-the-badge)
