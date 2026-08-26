@@ -1,44 +1,65 @@
-## Hey, I'm Prathvin
+<div align="center">
 
-Frontend engineer who enjoys building **fast, scalable UIs** and fixing the kind of performance issues most people prefer to ignore.
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7768E&center=true&vCenter=true&width=600&height=60&lines=%3E_++Hi%2C+I'm+Prathvin;%3E_++Building+Fast%2C+Scalable+UIs" alt="Typing SVG" />
+</a>
 
-I mostly work with **React + TypeScript**, and like turning messy frontend codebases into something boring and predictable (the good kind).
-
----
-
-### Tech I use day-to-day
-<p>
-  <img src="https://skillicons.dev/icons?i=go,html,java,js,rust,ts,md,css,firebase,netlify,vercel,aws,azure,bootstrap,express,npm,nextjs,nodejs,react,redux,tailwind,threejs,vite,webpack,mongodb,postgres,sqlite,supabase,figma,git,github,githubactions,jest,cypress" />
+<p align="center">
+  I build fast, scalable UIs and fix the performance bottlenecks most people prefer to ignore.<br>
+  Currently writing predictable, boring <i>(the good kind)</i> code in <b>React + TypeScript</b>.
 </p>
 
----
+<br>
 
-### Things I’ve built
+<!-- Tech Stack -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,css,html&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=vite,webpack,jest,cypress,nodejs,express,firebase,supabase&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,postgres,mongodb,rust,go,git,github&theme=dark" />
+  </a>
+</p>
 
-- **Create MFE Kit** - CLI to scaffold Micro Frontend setups - [NPM Package](https://www.npmjs.com/package/create-mfe-kit)
-
-- **Player Auction System** - Freelance real-time auction app with organizers and teams (currently not active) - [Live](https://ykpl.netlify.app/) 
-
-- **Astronaut Survival Game** - Browser game with modular rendering engine - [Play](https://astronautsurvival.netlify.app/)
-
-- **Healthcare SaaS** - Experimental dashboard built with Chart.js for data visualization - [Live](https://prathvin-healthcaresaas.netlify.app/)
-
-
-
-<div align="center">
-  
-<table>
-<tr>
-  <td align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=flintbits&theme=github-dark&hide_border=true&background=0d1117" />
-  </td>
-  
-  <td align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flintbits&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117" />
-  </td>
-</tr>
-</table>
-
+<br>
 </div>
 
-![](https://komarev.com/ghpvc/?username=flintbits&style=for-the-badge)
+---
+
+### What I've Been Shipping
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Create MFE Kit</h3>
+      <p>A zero-config CLI tool to scaffold Micro Frontend setups without the headache.</p>
+      <a href="https://www.npmjs.com/package/create-mfe-kit"><img src="https://img.shields.io/badge/NPM_Package-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3> Player Auction System</h3>
+      <p>Freelance real-time auction engine handling organizers, teams, and live bidding.</p>
+      <a href="https://ykpl.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Astronaut Survival</h3>
+      <p>Browser-based survival game powered by a custom modular rendering engine.</p>
+      <a href="https://astronautsurvival.netlify.app/"><img src="https://img.shields.io/badge/Play_Game-8A2BE2?style=for-the-badge&logo=dpad&logoColor=white" alt="Play Game"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Healthcare SaaS</h3>
+      <p>Experimental data visualization dashboard heavy on Chart.js and performance.</p>
+      <a href="https://prathvin-healthcaresaas.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- Profile Views Badge -->
+<img src="https://komarev.com/ghpvc/?username=flintbits&style=for-the-badge&color=F7768E&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
