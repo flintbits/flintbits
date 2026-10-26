@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7768E&center=true&vCenter=true&width=600&height=60&lines=%3E_++Hi%2C+I'm+Prathvin;%3E_++Building+Fast%2C+Scalable+UIs" alt="Typing SVG" />
-</a>
+<h1>Prathvin Pinto</h1>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=flintbits&style=for-the-badge&color=F7768E&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
 
 <p align="center">
   I build fast, scalable UIs and fix the performance bottlenecks most people prefer to ignore.<br>
@@ -25,8 +26,6 @@
 
 <br>
 </div>
-
----
 
 ### What I've Been Shipping
 
@@ -57,9 +56,7 @@
   </tr>
 </table>
 
----
-
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=flintbits&style=for-the-badge&color=F7768E&label=PROFILE+VIEWS" alt="Profile Views" />
+
 
 </div>
